@@ -1,5 +1,5 @@
 print('hi i am rishika')
-a=10
+a=5
 b=20
-c=a+b
+c=a*b
 print(c)
